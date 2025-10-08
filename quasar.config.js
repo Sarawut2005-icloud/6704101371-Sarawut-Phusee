@@ -38,6 +38,9 @@ export default defineConfig((/* ctx */) => {
       },
 
       vueRouterMode: 'hash', // available values: 'hash', 'history'
+
+      
+       publicPath: '/6704101371-Sarawut-Phusee/',
       // vueRouterBase,
       // vueDevtools,
       // vueOptionsAPI: false,
